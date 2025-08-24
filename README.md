@@ -1,2 +1,2 @@
 # report-
-ouer small steps to learn
+our small steps to learn
